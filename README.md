@@ -1,13 +1,9 @@
 # Hola, Mi Nombre es Eduard Aguacía R. 
 
 <picture>
-  <img src="![MonoQuepaso](https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9)" alt="mono loco" >
-  ![MonoQuepaso](https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9)
+  <img src="https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9" alt="mono loco" >
 </picture>
-![MonoQuepaso](https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9)
 
-<!--
-**EdAgRa/EdAgRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
