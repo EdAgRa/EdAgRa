@@ -1,8 +1,11 @@
-## Hi there 👋
+# Hola, Mi Nombre es Eduard Aguacía R. 
 
 <picture>
-  <img alt="https://private-user-images.githubusercontent.com/153760563/382923159-2c0318b7-890f-410c-874e-25270e685d54.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NTYxNDksIm5iZiI6MTczMDc1NTg0OSwicGF0aCI6Ii8xNTM3NjA1NjMvMzgyOTIzMTU5LTJjMDMxOGI3LTg5MGYtNDEwYy04NzRlLTI1MjcwZTY4NWQ1NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNFQyMTMwNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzgwNjc4ZGZhZDA2YjRkZWY1MThlYmE0NDYyZjU0ZWY2OTZiNDc3NzEzMzg0YmJkODY3ODNkYWI4NmFkNWIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tj7lX31IA6R2kwxFx_oxAOXm7P-5sa6TI5F4EG5sb2Q" src="https://private-user-images.githubusercontent.com/153760563/382923159-2c0318b7-890f-410c-874e-25270e685d54.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA3NTYxNDksIm5iZiI6MTczMDc1NTg0OSwicGF0aCI6Ii8xNTM3NjA1NjMvMzgyOTIzMTU5LTJjMDMxOGI3LTg5MGYtNDEwYy04NzRlLTI1MjcwZTY4NWQ1NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNFQyMTMwNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYzgwNjc4ZGZhZDA2YjRkZWY1MThlYmE0NDYyZjU0ZWY2OTZiNDc3NzEzMzg0YmJkODY3ODNkYWI4NmFkNWIwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.tj7lX31IA6R2kwxFx_oxAOXm7P-5sa6TI5F4EG5sb2Q" >
+  <img src="![MonoQuepaso](https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9)" alt="mono loco" >
+  ![MonoQuepaso](https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9)
 </picture>
+![MonoQuepaso](https://github.com/user-attachments/assets/ab2c8c9f-de58-48c3-8bf4-1dbed69dd7f9)
+
 <!--
 **EdAgRa/EdAgRa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
