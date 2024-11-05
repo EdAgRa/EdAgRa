@@ -15,7 +15,7 @@
   - Sybase.
   - HTML.
   - CSS.
-  - y algo de Javascript.
+  - y algo de JavaScript.
 - 🌱 Actualmente estoy aprendiendo
   - Leguaje de programación Java.
   - Algo de Angular.
