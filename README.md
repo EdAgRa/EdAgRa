@@ -8,7 +8,8 @@
 
 - 🔭 Actualmente Trabajo para una gran Familia y Compañía de Software ...
 - 🤓 poseo conocimientos en
-  - Sistema operativo: Windows y linux.
+  - Sistema operativo Windows.
+  - Sistema operativo Linux.
   - SQL.
   - dbOracle.
   - Sybase.
