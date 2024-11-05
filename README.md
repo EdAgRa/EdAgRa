@@ -6,16 +6,17 @@
   </p>
 </picture>
 
-- 🔭 Actualmente Trabajo para una gran Familia y Compañóa de Software ...
+- 🔭 Actualmente Trabajo para una gran Familia y Compañía de Software ...
 - 🤓 poseo conocimientos en
+  - Sistema operativo: Windows y linux.
   - SQL.
-  - Oracle.
+  - dbOracle.
   - Sybase.
   - HTML.
   - CSS.
   - y algo de Javascript.
 - 🌱 Actualmente estoy aprendiendo
-  - leguaje de programacion Java.
-  - Algo de Ágular.
-  - Tambien SprinBoot.
+  - Leguaje de programación Java.
+  - Algo de Ángular.
+  - Támbien SprinBoot.
 - ⚡ Fun fact:  ... 
