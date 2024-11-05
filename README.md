@@ -18,6 +18,6 @@
   - y algo de Javascript.
 - 🌱 Actualmente estoy aprendiendo
   - Leguaje de programación Java.
-  - Algo de Ángular.
+  - Algo de Angular.
   - Támbien SprinBoot.
 - ⚡ Fun fact:  ... 
