@@ -1,7 +1,9 @@
 <h1 align="center"> 👋 Hola, Mi Nombre es Eduard Aguacía R. 👋 </h1>
 
 <picture>
-  <img src="https://github.com/user-attachments/assets/a546b03f-7803-4e21-85ef-05012a2a02a2" alt="mono loco" >
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/9dd4cc56-c002-426f-98b4-021f827f9522" alt="mono loco">
+  </p>
 </picture>
 
 
