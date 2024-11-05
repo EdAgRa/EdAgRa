@@ -7,7 +7,7 @@
 </picture>
 
 - 🔭 Actualmente Trabajo para una gran Familia y Compañía de Software ...
-- 🤓 poseo conocimientos en
+- 🤓 Poseo conocimientos en
   - Sistema operativo Windows.
   - Sistema operativo Linux.
   - SQL.
