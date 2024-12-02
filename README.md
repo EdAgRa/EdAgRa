@@ -20,4 +20,5 @@
   - Leguaje de programación Java.
   - Algo de Angular.
   - Támbien SprinBoot.
-- ⚡ Fun fact:  ... 
+- ⚡ Algo para mostar ...
+  
