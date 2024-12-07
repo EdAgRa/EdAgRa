@@ -10,9 +10,9 @@
 - 🤓 Poseo conocimientos en
   - Sistema operativo Windows.
   - Sistema operativo Linux.
-  - SQL.
-  - dbOracle.
+  - MySQL.
   - Sybase.
+  - Oracle.
   - HTML.
   - CSS.
   - y algo de JavaScript.
