@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hola, Mi Nombre es Eduard Aguacía R. 👋 </h1>
+<h1 align="center"> 👋 Hola, Mi Nombre es Eduard Aguacía R.</h1>
 
 <picture>
   <p align="center">
